@@ -1,8 +1,8 @@
 
 # Variables in Python
 
-first_name = 'Asabeneh'
-last_name = 'Yetayeh'
+first_name = 'Axel'
+last_name = 'Howard'
 country = 'Finland'
 city = 'Helsinki'
 age = 250
